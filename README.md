@@ -23,9 +23,10 @@ git clone https://github.com/AlexWS2/checkout-counter.git
 cd checkout-counter
 
 ## Usage
+```bash
 - Run the script
 python checkout_counter.py
-
+```
 ## Examples
 ```bash
 # Example interaction with the script
