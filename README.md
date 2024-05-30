@@ -7,7 +7,7 @@ A simple Python script to simulate a checkout counter, where users can input the
 1. [Features](#features)
 2. [Installation](#installation)
 3. [Usage](#usage)
-4. [Examples](#examples)
+4. [Example](#example)
 
 ## Features
 - Input product names and prices.
