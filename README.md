@@ -15,17 +15,15 @@ A simple Python script to simulate a checkout counter, where users can input the
 - Determine change to give back to the customer.
 
 ## Installation
-
+```bash
 - Clone the repository
 git clone https://github.com/AlexWS2/checkout-counter.git
-
 - Navigate to the project directory
 cd checkout-counter
-
+```
 ## Usage
 ```bash
-- Run the script
-python checkout_counter.py
+- Run the script python checkout_counter.py
 ```
 ## Examples
 ```bash
@@ -48,3 +46,4 @@ Please enter cash amount
 # User inputs: 5
 I owe you back 2.82
 Thank you for shopping with us!
+```
