@@ -23,7 +23,7 @@ git clone https://github.com/AlexWS2/checkout-counter.git
 cd checkout-counter
 
 ## Usage
-# Run the script
+- Run the script
 python checkout_counter.py
 
 ## Examples
